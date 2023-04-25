@@ -1,0 +1,3 @@
+INFO 2023-04-25 13:08:45,334 Watching for file changes with StatReloader
+INFO 2023-04-25 13:08:47,834 "GET / HTTP/1.1" 302 0
+INFO 2023-04-25 13:08:47,856 "GET /accounts/login/?next=/ HTTP/1.1" 200 3989
